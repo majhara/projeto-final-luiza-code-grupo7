@@ -1,6 +1,8 @@
-<h1>Carrinho de compras Joias e Bijuterias</h1> 
+<img src="https://github.com/majhara/projeto-final-luiza-code-grupo7/blob/main/joiasebijuterias.png"> 
 
-<h2> Descrição: Repositório criado para o projeto final do bootcamp Luiza Code 5a edição, promovido pela Luiza Labs (Magalu)</h2>
+<h2 align="center">Projeto final - Grupo 7 :ring: </h2> 
+
+<h3 align="center"> Descrição: Repositório criado para o projeto final do bootcamp Luiza Code 5a edição, promovido pela Luiza Labs (Magalu)</h3>
 
 
 <strong>1. Requisitos para execução da aplicação: </strong>
